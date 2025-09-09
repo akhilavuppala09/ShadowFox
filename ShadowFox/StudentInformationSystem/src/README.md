@@ -15,7 +15,7 @@ View all students in a JTable
 
 Simple and beginner-friendly Java Swing GUI
 
-'''
+```
 📂 Project Structure
 StudentInformationSystem/src
 │
@@ -29,7 +29,7 @@ StudentInformationSystem/src
 │   └── StudentInformationSystemSwing.java  # GUI (View + main method)
 │
 └── README.md
-'''
+```
 
 🛠️ Technologies Used
 
